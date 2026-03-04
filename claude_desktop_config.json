@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "springbootaimcp": {
+      "command": "C:\\Program Files\\Java\\jdk-21\\bin\\java.exe",
+      "args": [
+        "-jar",
+        "C:/Users/bhard/kollu/workspace/springboot/sbangularone/springbootaimcp/target/springbootaimcp.jar"
+      ]
+    }
+  }
+}
