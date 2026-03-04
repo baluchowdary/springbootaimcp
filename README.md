@@ -41,5 +41,9 @@ Claude Chat:
 <img width="1099" height="902" alt="image" src="https://github.com/user-attachments/assets/b1e818d0-32a0-4dc6-9e68-077a73b45c33" />
 
 
+MCP Server option enabled - springbootaimcp  
+
+<img width="1057" height="450" alt="image" src="https://github.com/user-attachments/assets/972255c5-ba5a-43c1-b79a-977322447432" />
+
 
 
